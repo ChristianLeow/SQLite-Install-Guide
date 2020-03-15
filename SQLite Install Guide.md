@@ -1,7 +1,5 @@
 # SQLite Install Guide
 
-[TOC]
-
 This document will guide you through the installation of SQLite on Ubuntu 18.04 LTS x64.
 
 
